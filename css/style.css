@@ -167,3 +167,9 @@ img {
         width: 90%;
     }
 }
+
+@media (max-width: 1159px){
+    .container{
+        width: 100vw;
+    }
+}
